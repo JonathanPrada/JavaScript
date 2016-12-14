@@ -4,7 +4,7 @@ The following examples are for portfolio purposes.
 
 ## Installation
 
-You will need Node.js to run on your local machine.
+Any available browser use the dev consoles.
 
 ## Usage
 
