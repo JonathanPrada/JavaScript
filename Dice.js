@@ -10,3 +10,10 @@ function generator(lower, upper) {
 }
 
 alert(generator(1,6));
+
+//An even more compacted version.
+function generator(lower,upper) {
+  return Math.floor(Math.random() * (upper - lower + 1)) + lower; 
+}
+
+alert(generator(1,6));
